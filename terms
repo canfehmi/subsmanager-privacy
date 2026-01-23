@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Terms of Use</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+            color: #333;
+        }
+        h1, h2 {
+            color: #222;
+        }
+        h1 {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        p {
+            margin: 12px 0;
+        }
+        ul {
+            margin: 10px 0 20px 20px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Terms of Use</h1>
+<p><strong>Last updated:</strong> 23.01.2026</p>
+
+<p>
+Welcome to <strong>Subscription Manager</strong>.
+By downloading, installing, or using this application, you agree to be bound by these Terms of Use.
+If you do not agree to these terms, please do not use the app.
+</p>
+
+<h2>1. Description of the Service</h2>
+<p>
+<strong>Subscription Manager]</strong> is a subscription tracking application that allows users to manually record and manage their subscriptions.
+The app helps users:
+</p>
+<ul>
+    <li>Add and track active subscriptions</li>
+    <li>View payment amounts and upcoming billing dates</li>
+    <li>Monitor spending based on a self-defined monthly limit</li>
+    <li>Access insights related to subscription expenses</li>
+</ul>
+<p>
+The app does not automatically connect to third-party services, banks, or subscription providers.
+All subscription information is entered manually by the user.
+</p>
+
+<h2>2. Data Storage and Privacy</h2>
+<ul>
+    <li>All data is stored locally on the user’s device.</li>
+    <li>The app does not use a backend server.</li>
+    <li>No personal data is collected, transmitted, or stored externally.</li>
+    <li>Deleting the app or resetting the device may permanently remove stored data.</li>
+</ul>
+<p>
+For more details, please review our Privacy Policy.
+</p>
+
+<h2>3. Free and Premium Features</h2>
+<p><strong>Free Version:</strong></p>
+<ul>
+    <li>Add and manage up to 4 subscriptions</li>
+    <li>Access basic tracking features</li>
+</ul>
+
+<p><strong>Premium Version:</strong></p>
+<ul>
+    <li>Add more than 4 subscriptions</li>
+    <li>Access advanced insights and additional features</li>
+</ul>
+
+<h2>4. Payments and Subscriptions</h2>
+<p>
+Premium features are available via in-app purchases processed by <strong>Google Play Billing</strong>.
+We do not handle or store any payment information.
+</p>
+<ul>
+    <li>Prices and purchase details are shown before payment</li>
+    <li>Subscription management and cancellations are handled through Google Play account settings</li>
+</ul>
+
+<h2>5. Accuracy of Information</h2>
+<p>
+All calculations and insights provided by the app are based solely on user-entered data.
+We do not guarantee accuracy or completeness of the displayed information.
+</p>
+<p>
+<strong>Subscription Manager</strong> is not a financial advisory tool and should not be considered financial advice.
+</p>
+
+<h2>6. User Responsibilities</h2>
+<ul>
+    <li>You are responsible for the accuracy of the information you enter</li>
+    <li>You agree to use the app only for lawful purposes</li>
+    <li>You understand the app is for personal tracking and informational use</li>
+</ul>
+
+<h2>7. Limitation of Liability</h2>
+<p>
+To the maximum extent permitted by law, <strong>[App Name]</strong> shall not be liable for:
+</p>
+<ul>
+    <li>Financial losses</li>
+    <li>Missed subscription payments</li>
+    <li>Decisions made based on app data</li>
+</ul>
+<p>
+Use of the app is at your own risk.
+</p>
+
+<h2>8. App Availability and Updates</h2>
+<p>
+We reserve the right to modify, update, or discontinue features at any time.
+We do not guarantee continuous availability or compatibility with all devices.
+</p>
+
+<h2>9. Termination</h2>
+<p>
+Users may stop using the app at any time by uninstalling it.
+We reserve the right to suspend access to premium features in case of misuse or violation of these Terms.
+</p>
+
+<h2>10. Changes to These Terms</h2>
+<p>
+These Terms of Use may be updated from time to time.
+Changes become effective once published within the app or on the app listing page.
+</p>
+
+<h2>11. Contact Information</h2>
+<p>
+If you have any questions regarding these Terms, please contact us:
+</p>
+<p>
+<strong>Email:</strong> info@studiowebia.com
+</p>
+
+</body>
+</html>
